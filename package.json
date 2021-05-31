@@ -1,5 +1,5 @@
 {
-  "name": "@nydelic/nydelic-toolbox",
+  "name": "@nydelic/toolbox",
   "version": "0.0.1",
   "description": "A collection of hooks, components and other helpful tools.",
   "main": "dist/index.js",
@@ -13,14 +13,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/nydelic/nydelic-toolbox.git"
+    "url": "https://github.com/nydelic/toolbox.git"
   },
   "author": "Josias Ribi",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/nydelic/nydelic-toolbox/issues"
+    "url": "https://github.com/nydelic/toolbox/issues"
   },
-  "homepage": "https://github.com/nydelic/nydelic-toolbox#readme",
+  "homepage": "https://github.com/nydelic/toolbox#readme",
   "devDependencies": {
     "@semantic-release/changelog": "^5.0.1",
     "@semantic-release/git": "^9.0.0",
