@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/nydelic/toolbox/compare/v1.1.0...v1.1.1) (2021-05-31)
+
+
+### Bug Fixes
+
+* exclude spec and test files ([b227167](https://github.com/nydelic/toolbox/commit/b227167d1fb0d212659a7e420f560fa77ad9b6ab))
+
 # [1.1.0](https://github.com/nydelic/toolbox/compare/v1.0.1...v1.1.0) (2021-05-31)
 
 
