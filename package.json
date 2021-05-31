@@ -1,0 +1,36 @@
+{
+  "name": "@nydelic/nydelic-toolbox",
+  "version": "0.0.1",
+  "description": "A collection of hooks, components and other helpful tools.",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "rm -rf dist && npm run tsc",
+    "dev": "run tsc:watch",
+    "tsc": "ttsc --p tsconfig.build.json",
+    "tsc:watch": "npm run ttsc -- --watch",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "semantic-release": "semantic-release"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nydelic/nydelic-toolbox.git"
+  },
+  "author": "Josias Ribi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nydelic/nydelic-toolbox/issues"
+  },
+  "homepage": "https://github.com/nydelic/nydelic-toolbox#readme",
+  "devDependencies": {
+    "@semantic-release/changelog": "^5.0.1",
+    "@semantic-release/git": "^9.0.0",
+    "@types/react": "^17.0.8",
+    "@zerollup/ts-transform-paths": "^1.7.18",
+    "semantic-release": "^17.4.3",
+    "ttypescript": "^1.5.12",
+    "typescript": "^4.3.2"
+  },
+  "peerDependencies": {
+    "react": "^17.0.2"
+  }
+}
