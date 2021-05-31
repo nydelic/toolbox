@@ -1,4 +1,4 @@
-const truncate = (str: string, n: number, useWordBoundary = true) => {
+function truncate(str: string, n: number, useWordBoundary = true) {
   if (str.length <= n) {
     return str;
   }
@@ -8,6 +8,6 @@ const truncate = (str: string, n: number, useWordBoundary = true) => {
       ? subString.substr(0, subString.lastIndexOf(" "))
       : subString) + "…"
   );
-};
+}
 
 export default truncate;
