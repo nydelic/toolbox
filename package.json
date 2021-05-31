@@ -1,6 +1,6 @@
 {
   "name": "@nydelic/toolbox",
-  "version": "0.0.1",
+  "version": "0.0.0-development",
   "description": "A collection of hooks, components and other helpful tools.",
   "main": "dist/index.js",
   "scripts": {
