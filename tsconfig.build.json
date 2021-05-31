@@ -11,5 +11,11 @@
     "declarationDir": "dist",
     "module": "commonjs"
   },
-  "exclude": ["node_modules", "**/*.spec.tsx", "**/*.test.tsx"]
+  "exclude": [
+    "node_modules",
+    "**/*.spec.ts",
+    "**/*.spec.tsx",
+    "**/*.test.ts",
+    "**/*.test.tsx"
+  ]
 }
