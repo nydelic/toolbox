@@ -1,0 +1,15 @@
+{
+  "extends": "./tsconfig.json",
+  "compilerOptions": {
+    "newLine": "LF",
+    "declaration": true,
+    "noEmit": false,
+    "emitDeclarationOnly": false,
+    "declarationMap": true,
+    "sourceMap": true,
+    "outDir": "dist",
+    "declarationDir": "dist",
+    "module": "commonjs"
+  },
+  "exclude": ["node_modules", "**/*.spec.tsx", "**/*.test.tsx"]
+}
