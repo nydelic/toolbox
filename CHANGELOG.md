@@ -1,3 +1,16 @@
+# [1.1.0](https://github.com/nydelic/toolbox/compare/v1.0.1...v1.1.0) (2021-05-31)
+
+
+### Bug Fixes
+
+* **go-light:** move arrow methods to functions and document ([cd6f0ba](https://github.com/nydelic/toolbox/commit/cd6f0ba20bc131596f6b704b71b00e876a09fa5d))
+* switch truncate to function from arrow function ([e9b64c5](https://github.com/nydelic/toolbox/commit/e9b64c5f43bd52f9763959e88ddb041380dd5e9e))
+
+
+### Features
+
+* add/export scrollTo method ([f782178](https://github.com/nydelic/toolbox/commit/f782178627325175c496b1ccaec236a2f33860f9))
+
 ## [1.0.1](https://github.com/nydelic/toolbox/compare/v1.0.0...v1.0.1) (2021-05-31)
 
 
