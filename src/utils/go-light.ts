@@ -48,6 +48,7 @@ interface ScrollToArgs {
         /** time relative to amount to scroll */
         relative: number;
       };
+  /** scroll container. defaults to document element */
   element?: HTMLElement | Element;
   easing?: "linear" | "easeInOutQuad";
   /** a method that will get called once the scroll animation finishes */

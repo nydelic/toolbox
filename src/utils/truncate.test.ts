@@ -3,7 +3,7 @@ import truncate from "./truncate";
 const lorem = `Lorem ipsum dolor sit amet.
 Vitae sapien pellentesque habitant morbi tristique.`;
 
-it("renders and gets window size correctly", () => {
+it("returns expected results with example string", () => {
   // default args truncate
   const truncatedDefault = truncate(lorem, 17);
   expect(truncatedDefault).toBe("Lorem ipsum…");
