@@ -15,7 +15,13 @@
     "type": "git",
     "url": "https://github.com/nydelic/toolbox.git"
   },
-  "author": "Josias Ribi",
+  "keywords": [
+    "react",
+    "library",
+    "webdevelopment",
+    "hooks-api-react"
+  ],
+  "author": "Josias Ribi <contact@josias.me> (https://josias.me/)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/nydelic/toolbox/issues"
