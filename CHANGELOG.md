@@ -1,3 +1,10 @@
+## [1.1.2](https://github.com/nydelic/toolbox/compare/v1.1.1...v1.1.2) (2021-06-01)
+
+
+### Bug Fixes
+
+* update package details ([6d24347](https://github.com/nydelic/toolbox/commit/6d24347976e730fd8479f6d8664b37eb01d8267b))
+
 ## [1.1.1](https://github.com/nydelic/toolbox/compare/v1.1.0...v1.1.1) (2021-05-31)
 
 
