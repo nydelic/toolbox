@@ -1,7 +1,7 @@
 {
   "name": "@nydelic/toolbox",
   "version": "0.0.0-development",
-  "description": "A collection of hooks, components and other helpful tools.",
+  "description": "A collection of hooks, components, and other helpful tools.",
   "main": "dist/index.js",
   "scripts": {
     "build": "rm -rf dist && npm run tsc",
