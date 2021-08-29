@@ -1,3 +1,10 @@
+## [1.1.3](https://github.com/nydelic/toolbox/compare/v1.1.2...v1.1.3) (2021-08-29)
+
+
+### Bug Fixes
+
+* add simple scrollbar scss template ([221257f](https://github.com/nydelic/toolbox/commit/221257f263f0e16941513e9cbfa743dc632df926))
+
 ## [1.1.2](https://github.com/nydelic/toolbox/compare/v1.1.1...v1.1.2) (2021-06-01)
 
 
