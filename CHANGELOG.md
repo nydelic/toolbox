@@ -1,3 +1,10 @@
+## [1.1.5](https://github.com/nydelic/toolbox/compare/v1.1.4...v1.1.5) (2022-06-26)
+
+
+### Bug Fixes
+
+* add react-scripts v5 as peerDependency ([16e6b39](https://github.com/nydelic/toolbox/commit/16e6b390131b83b7dc9ea89cf75370a730ed4e8c))
+
 ## [1.1.4](https://github.com/nydelic/toolbox/compare/v1.1.3...v1.1.4) (2022-06-26)
 
 
