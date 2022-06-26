@@ -1,3 +1,10 @@
+## [1.1.4](https://github.com/nydelic/toolbox/compare/v1.1.3...v1.1.4) (2022-06-26)
+
+
+### Bug Fixes
+
+* add react-dom v18 as valid peer dependency ([77f6d7a](https://github.com/nydelic/toolbox/commit/77f6d7af63f454f67129e66eacc0e3abb606513e))
+
 ## [1.1.3](https://github.com/nydelic/toolbox/compare/v1.1.2...v1.1.3) (2021-08-29)
 
 
