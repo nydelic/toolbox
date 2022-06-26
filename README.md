@@ -1,3 +1,3 @@
 # Nydelic Toolbox
 
-A collection of hooks, components, and other helpful tools.
+A collection of react hooks, react components, and other helpful tools.
