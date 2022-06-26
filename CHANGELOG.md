@@ -1,3 +1,10 @@
+## [1.1.6](https://github.com/nydelic/toolbox/compare/v1.1.5...v1.1.6) (2022-06-26)
+
+
+### Bug Fixes
+
+* add react v18 as peerDependency ([90ea3e3](https://github.com/nydelic/toolbox/commit/90ea3e39e5f9b4cab3af67ef19db8e22ccb663b6))
+
 ## [1.1.5](https://github.com/nydelic/toolbox/compare/v1.1.4...v1.1.5) (2022-06-26)
 
 
