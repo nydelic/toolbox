@@ -1,3 +1,17 @@
+# [1.2.0](https://github.com/nydelic/toolbox/compare/v1.1.6...v1.2.0) (2022-06-27)
+
+
+### Bug Fixes
+
+* fix jest type error after update ([e34d9e0](https://github.com/nydelic/toolbox/commit/e34d9e05aa2eaf144e6dd6443cc35eceb972e20e))
+* npm maintenance ([37496a1](https://github.com/nydelic/toolbox/commit/37496a109db59aa43a95580fe005425a71ae01ff))
+* use node 16 for CI pipeline ([be34bc9](https://github.com/nydelic/toolbox/commit/be34bc9dedced76a5b6fc30c19f6d3d2d1ce896c))
+
+
+### Features
+
+* add http handlers ([605c0cc](https://github.com/nydelic/toolbox/commit/605c0cc4de919a95fbf324bbed294f3a14612582))
+
 ## [1.1.6](https://github.com/nydelic/toolbox/compare/v1.1.5...v1.1.6) (2022-06-26)
 
 
