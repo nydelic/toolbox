@@ -15,7 +15,7 @@ scrollChild.style.height = "1000000px";
 scrollContainer.appendChild(scrollChild);
 
 it("scrolls element for duration an distance", async () => {
-  jest.useFakeTimers("modern");
+  jest.useFakeTimers();
   const duration = 100;
 
   // Scroll Y
