@@ -1,3 +1,11 @@
+## [1.2.1](https://github.com/nydelic/toolbox/compare/v1.2.0...v1.2.1) (2022-06-28)
+
+
+### Bug Fixes
+
+* add http handlers to index named exports ([2a7a60f](https://github.com/nydelic/toolbox/commit/2a7a60fb17848ecbd64d709e08a3748f944d8d43))
+* upgrade target version to es6 due to issues with isntanceof ([4a0d82c](https://github.com/nydelic/toolbox/commit/4a0d82c51259d09ad2bac18a35510be568cd7f54))
+
 # [1.2.0](https://github.com/nydelic/toolbox/compare/v1.1.6...v1.2.0) (2022-06-27)
 
 
